@@ -1,2 +1,2 @@
-# Revontulet-MO2
+# Revontulet's MO2 Themes
 Repository for MO2 themes made by me.
