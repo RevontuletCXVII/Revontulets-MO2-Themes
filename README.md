@@ -1,2 +1,6 @@
-# Revontulet's MO2 Themes
-Repository for MO2 themes made by me.
+# Revontulet's Themes
+Repository for themes made by me.
+
+Themes currently exist for:
+- Mod Organiser 2
+- MiXPlorer
